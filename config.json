@@ -1,0 +1,31 @@
+{
+	"author":"Sabertooth",
+	"footer":"Developed by Saber Gaming",
+	"prefix":"sbr ",
+	"embedColor":"#36393e",
+	"database":"sabertooth",
+	"guildId":"593570237249617920",
+	"errors":"937036489584431104",
+	"suggestionChannel":"711187905371963392",
+	"collection":{
+		"economy":"economy"
+	},
+	"emStringOption":"emoji_name",
+	"emojifyString": "text",
+	"jokeStringOption":"category",
+	"nameStringOption":"gender",
+	"recipieStringOption":"ingredients",
+	"userStringOption": "user",
+	"fchallengesIntegerOption":"week",
+	"levelNotificationChannelOption":"channel_name",
+	"helpCommandStringOption": "command",
+	"helpCategoryStringOption": "category",
+	"rpsStringOption": "choice",
+	"embedStringOption": "message",
+	"movieStringOption": "movie_name",
+	"suggestionStringOption": "suggestion",
+	"weatherStringOption": "city",
+	"ownerID": "524002223181660167",
+	"fightOdds": 58,
+	"begOdds": 75
+}

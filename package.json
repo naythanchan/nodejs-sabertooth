@@ -1,0 +1,30 @@
+{
+  "name": "sabertoothv2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaberSG/sabertoothv2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaberSG/sabertoothv2/issues"
+  },
+  "homepage": "https://github.com/SaberSG/sabertoothv2#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0",
+    "@discordjs/rest": "^0.4.1",
+    "discord-api-types": "^0.32.1",
+    "discord.js": "^13.6.0",
+    "mongodb": "^4.6.0"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.1"
+  }
+}

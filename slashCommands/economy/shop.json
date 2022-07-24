@@ -1,0 +1,423 @@
+{
+  "phoenix-gold": {
+    "name": "Phoenix Gold",
+    "type": "color",
+    "price": 30000,
+    "roleId": "643900101391155200",
+    "rarity": "Exclusive",
+    "limited": false
+  },
+  "invisible": {
+    "name": "Invisible",
+    "type": "color",
+    "price": 30000,
+    "roleId": "616478378996006963",
+    "rarity": "Exclusive",
+    "limited": false
+  },
+  "black": {
+    "name": "Black",
+    "type": "color",
+    "price": 30000,
+    "roleId": "616338329687949323",
+    "rarity": "Exclusive",
+    "limited": false
+  },
+  "fire-red": {
+    "name": "Fire Red",
+    "type": "color",
+    "price": 30000,
+    "roleId": "616809059336716359",
+    "rarity": "Exclusive",
+    "limited": false
+  },
+  "peach-orange": {
+    "name": "Peach Orange",
+    "type": "color",
+    "price": 30000,
+    "roleId": "689283944809758796",
+    "rarity": "Exclusive",
+    "limited": false
+  },
+  "diamond-blue": {
+    "name": "Diamond Blue",
+    "type": "color",
+    "price": 30000,
+    "roleId": "689274483093274663",
+    "rarity": "Exclusive",
+    "limited": false
+  },
+  "arctic-blue": {
+    "name": "Arctic Blue",
+    "type": "color",
+    "price": 30000,
+    "roleId": "625450794581360650",
+    "rarity": "Exclusive",
+    "limited": false
+  },
+  "blurple": {
+    "name": "Blurple",
+    "type": "color",
+    "price": 30000,
+    "roleId": "689273827938533452",
+    "rarity": "Exclusive",
+    "limited": false
+  },
+  "royal-purple": {
+    "name": "Royal Purple",
+    "type": "color",
+    "price": 30000,
+    "roleId": "689272805317148807",
+    "rarity": "Exclusive",
+    "limited": false
+  },
+  "forest-green": {
+    "name": "Forest Green",
+    "type": "color",
+    "price": 30000,
+    "roleId": "625516592993665033",
+    "rarity": "Exclusive",
+    "limited": false
+  },
+  "cherry-pink": {
+    "name": "Cherry Pink",
+    "type": "color",
+    "price": 30000,
+    "roleId": "643899666492030986",
+    "rarity": "Exclusive",
+    "limited": false
+  },
+  "silver": {
+    "name": "Silver",
+    "type": "color",
+    "price": 30000,
+    "roleId": "851888819829866506",
+    "rarity": "Exclusive",
+    "limited": false
+  },
+  "wukong-yellow": {
+    "name": "Wukong Yellow",
+    "type": "color",
+    "price": 30000,
+    "roleId": "847972091793768551",
+    "rarity": "Exclusive",
+    "limited": false
+  },
+  "amethyst-purple": {
+    "name": "Amethyst Purple",
+    "type": "color",
+    "price": 30000,
+    "roleId": "847973727639568464",
+    "rarity": "Exclusive",
+    "limited": false
+  },
+
+
+
+  "midnight-blue": {
+    "name": "Midnight Blue",
+    "type": "color",
+    "price": 20000,
+    "roleId": "630094597082841129",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "sapphire-blue": {
+    "name": "Sapphire Blue",
+    "type": "color",
+    "price": 20000,
+    "roleId": "689283150547124293",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "cerulean-blue": {
+    "name": "Cerulean Blue",
+    "type": "color",
+    "price": 20000,
+    "roleId": "689286012811477177",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "turquoise": {
+    "name": "Turquoise",
+    "type": "color",
+    "price": 20000,
+    "roleId": "616457866324344833",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "navy-teal": {
+    "name": "Navy Teal",
+    "type": "color",
+    "price": 20000,
+    "roleId": "643979515227537409",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "plum-orange": {
+    "name": "Plum Orange",
+    "type": "color",
+    "price": 20000,
+    "roleId": "616472729389891613",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "salmon": {
+    "name": "Salmon",
+    "type": "color",
+    "price": 20000,
+    "roleId": "616474551685218327",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "sakura-pink": {
+    "name": "Sakura Pink",
+    "type": "color",
+    "price": 20000,
+    "roleId": "643913716642873401",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "violet": {
+    "name": "Violet",
+    "type": "color",
+    "price": 20000,
+    "roleId": "616343777107378176",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "lime-green": {
+    "name": "Lime Green",
+    "type": "color",
+    "price": 20000,
+    "roleId": "689286812086042648",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "neon-green": {
+    "name": "Neon Green",
+    "type": "color",
+    "price": 20000,
+    "roleId": "643915131998306331",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "pastel-green": {
+    "name": "Pastel Green",
+    "type": "color",
+    "price": 20000,
+    "roleId": "689285218150252566",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "frost-white": {
+    "name": "Frost White",
+    "type": "color",
+    "price": 20000,
+    "roleId": "627763070080516098",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "mirkwood-green": {
+    "name": "Mirkwood Green",
+    "type": "color",
+    "price": 20000,
+    "roleId": "849790819644211270",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "crimson-red": {
+    "name": "Crimson Red",
+    "type": "color",
+    "price": 20000,
+    "roleId": "847973477859721237",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "mango-orange": {
+    "name": "Mango Orange",
+    "type": "color",
+    "price": 20000,
+    "roleId": "849792927419858985",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "lavender-purple": {
+    "name": "Lavender Purple",
+    "type": "color",
+    "price": 20000,
+    "roleId": "847972592119054347",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "autumn-yellow": {
+    "name": "Autumn Yellow",
+    "type": "color",
+    "price": 20000,
+    "roleId": "773254568519532545",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "grape-purple": {
+    "name": "Grape Purple",
+    "type": "color",
+    "price": 20000,
+    "roleId": "985789905751920670",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "sage-green": {
+    "name": "Sage Green",
+    "type": "color",
+    "price": 20000,
+    "roleId": "985790206340923404",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "rust-brown": {
+    "name": "Rust Brown",
+    "type": "color",
+    "price": 20000,
+    "roleId": "985790814074589186",
+    "rarity": "Regular",
+    "limited": false
+  },
+  "flame-yellow": {
+    "name": "Flame Yellow",
+    "type": "color",
+    "price": 20000,
+    "roleId": "985791939242778654",
+    "rarity": "Regular",
+    "limited": false
+  },
+
+  
+  "lunar-gold": {
+    "name": "Lunar Gold",
+    "type": "color",
+    "price": 50000,
+    "roleId": "670321655339286544",
+    "rarity": "Limited",
+    "limited": true
+  },
+  "moonlight-blue": {
+    "name": "Moonlight Blue",
+    "type": "color",
+    "price": 50000,
+    "roleId": "670319722230972474",
+    "rarity": "Limited",
+    "limited": true
+  },
+  "firecracker-red": {
+    "name": "Firecracker Red",
+    "type": "color",
+    "price": 50000,
+    "roleId": "670319178984456202",
+    "rarity": "Limited",
+    "limited": true
+  },
+  "jade-green": {
+    "name": "Jade Green",
+    "type": "color",
+    "price": 50000,
+    "roleId": "670320254605590548",
+    "rarity": "Limited",
+    "limited": true
+  },
+  "christmas-star-gold": {
+    "name": "Christmas Star Gold",
+    "type": "color",
+    "price": 50000,
+    "roleId": "652615292958146571",
+    "rarity": "Limited",
+    "limited": true
+  },
+  "santa-red": {
+    "name": "Santa Red",
+    "type": "color",
+    "price": 50000,
+    "roleId": "652610877358473236",
+    "rarity": "Limited",
+    "limited": true
+  },
+  "aurora-purple": {
+    "name": "Aurora Purple",
+    "type": "color",
+    "price": 50000,
+    "roleId": "652613115153743901",
+    "rarity": "Limited",
+    "limited": true
+  },
+  "christmas-tree-green": {
+    "name": "Christmas Tree Green",
+    "type": "color",
+    "price": 50000,
+    "roleId": "652616437701017659",
+    "rarity": "Limited",
+    "limited": true
+  },
+  "north-pole-white": {
+    "name": "North Pole White",
+    "type": "color",
+    "price": 50000,
+    "roleId": "652612409663684631",
+    "rarity": "Limited",
+    "limited": true
+  },
+  "black-panther-purple": {
+    "name": "Black Panther Purple",
+    "type": "color",
+    "price": 50000,
+    "roleId": "710688074048339978",
+    "rarity": "Limited",
+    "limited": true
+  },
+  "scarlet-witch-pink": {
+    "name": "Scarlet Witch Pink",
+    "type": "color",
+    "price": 50000,
+    "roleId": "710689411754360854",
+    "rarity": "Limited",
+    "limited": true
+  },
+  "broomstick-black": {
+    "name": "Broomstick Black",
+    "type": "color",
+    "price": 50000,
+    "roleId": "764588691112460328",
+    "rarity": "Limited",
+    "limited": true
+  },
+  "candy-pink": {
+    "name": "Candy Pink",
+    "type": "color",
+    "price": 50000,
+    "roleId": "764967962644971580",
+    "rarity": "Limited",
+    "limited": true
+  },
+  "chocolate-brown": {
+    "name": "Chocolate Brown",
+    "type": "color",
+    "price": 50000,
+    "roleId": "764588413097082881",
+    "rarity": "Limited",
+    "limited": true
+  },
+  "valentine-red": {
+    "name": "Valentine Red",
+    "type": "color",
+    "price": 50000,
+    "roleId": "806969228909084702",
+    "rarity": "Limited",
+    "limited": true
+  },
+  "lonely-blue": {
+    "name": "Lonely Blue",
+    "type": "color",
+    "price": 50000,
+    "roleId": "806963506951880784",
+    "rarity": "Limited",
+    "limited": true
+  }
+}
